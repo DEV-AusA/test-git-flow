@@ -1,0 +1,1 @@
+const qr: string = "esto es un QR";
